@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download TipsyOs build">https://www.androidfilehost.com/?w=files&flid=54881</RomUrl>
+                description="Download TipsyOs build">https://www.androidfilehost.com/?w=files&amp;flid=54881</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
