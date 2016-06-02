@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <osprey>
+            <Filename>Tipsy-osprey-6.0.1.Chimay.v3.7--20160425-0529.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download TipsyOs build">https://www.androidfilehost.com/?w=files&flid=54881</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View TipsyOs changelogs">#</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Banks gapps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit TipsyOs Huashan XDA thread">http://forum.xda-developers.com/2015-moto-g/development/rom-tipsy-osv3-x-t3366091</XDAUrl>
+        </osprey>
+    </Stable>
+</SlimOTA> 
